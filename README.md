@@ -1,5 +1,7 @@
 # The Official™ Optimism Tutorial
 
+```yarn add @eth-optimism/contracts/```
+
 This tutorial is an introduction to the process of developing applications on Optimistic Ethereum.
 We'll take you through the process of compiling, testing, and deploying a smart contract.
 

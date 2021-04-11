@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@eth-optimism/dev": "^1.1.1",
-    "@eth-optimism/plugins": "latest",
+    "@eth-optimism/plugins": "^1.0.0-alpha.3",
     "@nomiclabs/hardhat-ethers": "^2.0.1",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
     "chai": "^4.2.0",
@@ -17,5 +17,8 @@
     "hardhat": "^2.0.7",
     "hardhat-deploy": "^0.7.0-beta.49",
     "mocha": "^8.2.1"
+  },
+  "dependencies": {
+    "@eth-optimism/contracts": "^0.2.0"
   }
 }
